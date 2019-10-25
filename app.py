@@ -8,7 +8,6 @@ import random
 import numpy as np
 import psycopg2 as pg
 
-# EB looks for an 'application' callable by default.
 app = Flask(__name__)
 
 @app.route("/")
