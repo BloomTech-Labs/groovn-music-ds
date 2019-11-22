@@ -1,102 +1,111 @@
-init commit staging
+# 1️⃣ Groovn Music
 
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline. Feel free to add your own flare to it.
-
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by.  Make sure to delete the numbers by the end of Labs.
-
-🚫 Each student has a required minimum number of meaningful PRs each week per the rubric.  Contributing to docs does NOT count as a PR to meet your weekly requirements.
-
-# 1️⃣ Title of project goes here
-
-You can find the project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
+You can find the project at [Groovn Music](https://github.com/Lambda-School-Labs/groovn-music-ds).
 
 ## 5️⃣ Contributors
 
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
-|                                       [Student 1](https://github.com/)                                        |                                       [Student 2](https://github.com/)                                        |                                       [Student 3](https://github.com/)                                        |                                       [Student 4](https://github.com/)                                        |                                       [Student 5](https://github.com/)                                        |
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
-|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
-
-
-
-🚫 5️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
+|                                       [Jason Pham ](https://github.com/extrajp2014)                                        |
+| :-----------------------------------------------------------------------------------------------------------: | 
+|                      [<img src="https://avatars0.githubusercontent.com/u/36387815?s=460&v=4" width = "180" />](https://github.com/)|
+|            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/extrajp2014)             |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
-![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-🚫 more info on using badges [here](https://github.com/badges/shields)
+![Python](https://img.shields.io/badge/python-v3.7-blue)
 
 ## Project Overview
 
+1️⃣ [Trello Board](https://trello.com/b/wRlpwQHc/groovn-music)
 
-1️⃣ [Trello Board](🚫add link to trello board here)
+1️⃣ [Product Canvas](https://www.notion.so/fa46a4ff908642fa9c7011e5c1342f6f?v=4dfdf951ee6845c0be6a536d4fb124e7)
 
-1️⃣ [Product Canvas](🚫add link to product canvas here)
+The purpose of this project to build a data science recommendation system that generate new song according to previous user's preferences.
 
-🚫 Replace lorem ipsum with a description of your project
+Music Recommendation API
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+1. What Feature(s) is/are this API connected to?
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Music Recommendation
 
-🚫  delete if front end is not applicable to your project
+2. What will this API integration accomplish in the feature(s) to which it’s connected?
 
-1️⃣ [Deployed Front End](🚫add link to deployed app here)
+    The Python API web server will host a data model that can perform on-demand prediction for similar songs that user may like. The result data can retrieved through GET and POST function.
+
+3. What alternatives did you consider?
+
+    Pre-populate prediction for popular songs and store them within playlists inside a database
+
+4. Why did you decide on this solution? (what are the advantages?)
+
+    The recommendation will be on-demand and result will be dynamic. This also provides more flexibility when updating to newer predictive model.
+
+5. What are the potential challenges can you foresee?
+
+    The time to retrieve recommendation may take longer due to server limitation.
 
 ### Tech Stack
 
-🚫 List all of the languages, frameworks, services, etc used here.
+1. HTTP Web server and Web Applications
+
+- Gunicorn
+    - Automatic worker process management
+    - Multiple worker configurations
+    - Light on server resources and fairly fast
+- Flask
+    - Lightweight and extensible Python web framework
+    - Extensions available to enhance additional features
+
+2. Heroku Infrastructure
+
+- Pickle for model deployment
+
+- REST API with the Flask Framework
+
+- Heroku Pipelines to maintain continuous workflow
 
 ### 2️⃣ Predictions
 
-🚫 Describe your models here
+- Sklearn or XGBoost package to predict user’s music preference based on regression or neighbors-based learning methods
 
-### 2️⃣ Explanatory Variables
-
--   Explanatory Variable 1
--   Explanatory Variable 2
--   Explanatory Variable 3
--   Explanatory Variable 4
--   Explanatory Variable 5
+- Pandas, Numpy, and other Anaconda scientific packages for data analysis
 
 ### Data Sources
-🚫  Add to or delete souce links as needed for your project
 
+-   [Project Data](https://github.com/Lambda-School-Labs/groovn-music-ds/data/)
+-   [Spotify API](https://developer.spotify.com/documentation/web-api/reference/)
 
--   [Source 1] (🚫add link to python notebook here)
--   [Source 2] (🚫add link to python notebook here)
--   [Source 3] (🚫add link to python notebook here)
--   [Source 4] (🚫add link to python notebook here)
--   [Source 5] (🚫add link to python notebook here)
 
 ### Python Notebooks
 
-🚫  Add to or delete python notebook links as needed for your project
+[Python Notebook 1](./spotify_prediction.ipynb)
 
-[Python Notebook 1](🚫add link to python notebook here)
+### 3️⃣ How to connect to the data API Endpoints
 
-[Python Notebook 2](🚫add link to python notebook here)
+1. send request to https://sensemodel.herokuapp.com/model1 with sample body that include song ids:
+```
+Example 1:
+{"request":["4MUF5hjHDYbJF2YtKFp0MI", "6e8Voz3K2vcOsydNtxbwaQ", "4ZD1VFoJ9LyV65KhPO9TZ5", "5DjNBCWKdD2y8zyIxmKbbl"]}
 
-[Python Notebook 3](🚫add link to python notebook here)
+Example 2:
+{"request":["4MUF5hjHDYbJF2YtKFp0MI", "6e8Voz3K2vcOsydNtxbwaQ", "4ZD1VFoJ9LyV65KhPO9TZ5", "5DjNBCWKdD2y8zyIxmKbbl", "35cOyocq8Gb6UcT0NWeTwn", "4ZD1VFoJ9LyV65KhPO9TZ5", "3j8FPquKEOygdUMLLs1Pxr"]}
+```
 
-### 3️⃣ How to connect to the web API
+2. send request to https://sensemodel.herokuapp.com/model1_flexible with sample body that include song ids:
+```
+Example 1:
+{"request":["bad_data_song_id","4MUF5hjHDYbJF2YtKFp0MI", "6e8Voz3K2vcOsydNtxbwaQ", "4ZD1VFoJ9LyV65KhPO9TZ5", "5DjNBCWKdD2y8zyIxmKbbl"]}
 
-🚫 List directions on how to connect to the API here
+Example 2:
+{"request":["4MUF5hjHDYbJF2YtKFp0MI", "6e8Voz3K2vcOsydNtxbwaQ", "4ZD1VFoJ9LyV65KhPO9TZ5", "bad_data_song_id", "5DjNBCWKdD2y8zyIxmKbbl", "35cOyocq8Gb6UcT0NWeTwn", "4ZD1VFoJ9LyV65KhPO9TZ5", "3j8FPquKEOygdUMLLs1Pxr"]}
+```
 
-### 3️⃣ How to connect to the data API
-
-🚫 List directions on how to connect to the API here
+5 similar songs will be recommended per song_id.  Request list size is dynamic
 
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-Please note we have a [code of conduct](./code_of_conduct.md.md). Please follow it in all your interactions with the project.
+Please note we have a [code of conduct](./code_of_conduct.md). Please follow it in all your interactions with the project.
 
 ### Issue/Bug Request
 
@@ -130,7 +139,6 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Documentation
 
-See [Backend Documentation](_link to your backend readme here_) for details on the backend of our project.
+See [Backend Documentation](https://github.com/Lambda-School-Labs/groovn-music-be/blob/master/README.md) for details on the backend of our project.
 
-See [Front End Documentation](_link to your front end readme here_) for details on the front end of our project.
-
+See [Front End Documentation](https://github.com/Lambda-School-Labs/groovn-music-fe/blob/master/README.md) for details on the front end of our project.

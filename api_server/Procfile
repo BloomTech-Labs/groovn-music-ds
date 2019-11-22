@@ -1,0 +1,1 @@
+web: gunicorn sense:app -t 120
