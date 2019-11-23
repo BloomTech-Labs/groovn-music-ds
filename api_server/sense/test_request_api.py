@@ -19,24 +19,23 @@ def test_endpoints():
             "35cOyocq8Gb6UcT0NWeTwn"
         ]
     }
-    print(r.json())
-    assert r.json() == expected_result
-
+    print(r.json()["data"])
+    assert r.json()["data"].sort() == expected_result["data"].sort()
     
     URL = 'https://sensemodel.herokuapp.com/model1_flexible'
     PARAMS = {"request":["bad_data","5DjNBCWKdD2y8zyIxmKbbl"]}
     r = requests.get(URL, json=PARAMS)
     expected_result={
         "data": [
-            "4ZD1VFoJ9LyV65KhPO9TZ5",
             "5NhqdHEGfM78WWnJARI0iM",
-            "3CZmkivge9jnZzWxjm757B",
             "35cOyocq8Gb6UcT0NWeTwn",
+            "4ZD1VFoJ9LyV65KhPO9TZ5",
+            "3CZmkivge9jnZzWxjm757B",
             "4MUF5hjHDYbJF2YtKFp0MI"
         ]
     }
-    print(r.json())
-    assert r.json() == expected_result
+    print(r.json()["data"])
+    assert r.json()["data"].sort() == expected_result["data"].sort()
     return 0
 
 if (test_endpoints() == 0):
