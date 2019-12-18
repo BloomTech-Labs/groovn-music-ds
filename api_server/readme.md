@@ -21,3 +21,10 @@ Example 2:
 
 Request list size is dynamic
 ```
+
+### Test out song
+1. http://open.spotify.com/track/{id}
+```
+Example 1:
+http://open.spotify.com/track/4MUF5hjHDYbJF2YtKFp0MI
+```
