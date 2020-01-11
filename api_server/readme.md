@@ -19,7 +19,7 @@ Example 1:
 Example 2:
 {"request":["4MUF5hjHDYbJF2YtKFp0MI", "6e8Voz3K2vcOsydNtxbwaQ", "4ZD1VFoJ9LyV65KhPO9TZ5", "5DjNBCWKdD2y8zyIxmKbbl", "35cOyocq8Gb6UcT0NWeTwn", "4ZD1VFoJ9LyV65KhPO9TZ5", "3j8FPquKEOygdUMLLs1Pxr", "wrong_id"]}
 ```
-3. Send request to https://sensemodel.herokuapp.com/model2 with sample body that include spotify song metadata:
+3. Send request to https://sensemodel.herokuapp.com/model2 with sample body that include spotify song audio features:
 ```
 Example 1:
 {
