@@ -1,8 +1,8 @@
-# 1️⃣ Groovn Music
+# 1️⃣ Groovn Music - Data Science
 
 You can find the project at [Groovn Music](https://github.com/Lambda-School-Labs/groovn-music-ds).
 
-## 5️⃣ Contributors
+## 1️⃣ Contributor
 
 |                                       [Jason Pham ](https://github.com/extrajp2014)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | 
@@ -71,7 +71,7 @@ Music Recommendation API
 
 ### Data Sources
 
--   [Project Data](https://github.com/Lambda-School-Labs/groovn-music-ds/data/)
+-   [Project Data](https://github.com/Lambda-School-Labs/groovn-music-ds/tree/master/data)
 -   [Spotify API](https://developer.spotify.com/documentation/web-api/reference/)
 
 
